@@ -1,4 +1,4 @@
-                                                                                    Monster Hunter-Browser
+                                                              Monster Hunter-Browser
 Monster Hunter-Browser is a text-based adventure game built with HTML, CSS, and JavaScript. Players embark on a heroic journey to save villages from terrifying monsters, making crucial decisions that determine the fate of the game world.
 
                                 Features
